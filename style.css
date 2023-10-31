@@ -1,0 +1,79 @@
+header {
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    font-size: 10rem;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+section {
+    width: 20%;
+    background-color: aqua;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+}
+
+#headone {
+    display: flex;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    font-size: 3rem;
+}
+
+.sum {
+    margin-left: 2rem;
+}
+
+#play {
+    
+    width: 20rem;
+    margin-top: 3rem;
+    height: 3rem;
+}
+
+#valueone{
+font-size: 4rem;
+}
+
+#valuetwo{
+    font-size: 4rem;
+}
+
+#valuethree{
+    font-size: 4rem;
+}
+
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.moneybtn {
+    width: 10rem;
+    height: 4rem;
+    align-self: center;
+}
+
+.playbox {
+    display: flex;
+    justify-content: center;
+}
+
+.messagebox {
+    display: flex;
+    justify-content: center;
+}
+
+#message {
+   margin-top: -50px;
+    margin-bottom: -10px;
+    font-size: 5rem;
+}
